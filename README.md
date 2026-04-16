@@ -26,7 +26,7 @@ Limit to clips...
 - [ ] 4
 
 日期格式
-yyyy-mm-dd
+yyyy-mm-dd _（就是年月日如 2026-04-16，一般这个在我在粗剪导出要上传的素材的时候，重新命名都是这样命名的，这里根据自己的习惯选）_
 
 Command
 「请选择 Apply CSV to clips」
